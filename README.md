@@ -5,12 +5,13 @@
 
 ## 代码随想录
 ### 数组
-#### [二分查找](二分查找 "https://github.com/stahol-14/LeetCode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md")
-####
+#### [二分查找](二分查找 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/数组/二分查找.md")
+#### [移除元素](移除元素"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/数组/移除元素.md")
+#### [有序数组的平方](有序数组的平方"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/数组/有序数组的平方.md)
 
 ### 链表
 
 ### 哈希表
 
 ### 字符串
-#### [替换数字](替换数字 "https://github.com/stahol-14/LeetCode/blob/main/%E6%9B%BF%E6%8D%A2%E6%95%B0%E5%AD%97.md")
+#### [替换数字](替换数字 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/替换数字.md")
