@@ -14,6 +14,7 @@
 #### [开发商购买土地](开发商购买土地 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/数组/开发商购买土地.md")
 
 ### 链表
+#### [移除链表元素](移除链表元素"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/移除链表元素.md")
 
 ### 哈希表
 
