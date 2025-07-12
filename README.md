@@ -15,6 +15,12 @@
 
 ### 链表
 #### [移除链表元素](移除链表元素"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/移除链表元素.md")
+#### [设计链表](设计链表"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/设计链表.md")
+#### [翻转链表](翻转链表"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/翻转链表.md")
+#### [两两交换链表中的节点](两两交换链表中的节点"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/两两交换链表中的节点.md")
+#### [删除链表的倒数第N个节点](删除链表的倒数第N个节点"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/删除链表的倒数第N个节点.md")
+#### [相交链表](相交链表"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/相交链表.md")
+#### [环形链表II](环形链表II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/环形链表II.md")
 
 ### 哈希表
 
