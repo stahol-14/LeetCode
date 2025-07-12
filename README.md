@@ -25,4 +25,10 @@
 ### 哈希表
 
 ### 字符串
+#### [反转字符串](反转字符串"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/反转字符串.md")
 #### [替换数字](替换数字 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/替换数字.md")
+
+
+### 双指针
+#### [移除元素](移除元素"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/数组/移除元素.md")
+#### [反转字符串](反转字符串"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/反转字符串.md")
