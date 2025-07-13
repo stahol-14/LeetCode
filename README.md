@@ -27,6 +27,7 @@
 ### 字符串
 #### [反转字符串](反转字符串"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/反转字符串.md")
 #### [替换数字](替换数字 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/替换数字.md")
+#### [找出字符串中第一个匹配项的下标](找出字符串中第一个匹配项的下标"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/找出字符串中第一个匹配项的下标.md")
 
 
 ### 双指针
