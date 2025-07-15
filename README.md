@@ -24,6 +24,8 @@
 
 ### 哈希表
 #### [有效字母的异位词](有效字母的异位词"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/有效字母的异位词.md")
+#### [两个数组的交集](两个数组的交集"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/两个数组的交集.md")
+#### [快乐数](快乐数"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/快乐数.md")
 
 
 ### 字符串
