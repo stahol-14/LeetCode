@@ -27,6 +27,8 @@
 #### [两个数组的交集](两个数组的交集"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/两个数组的交集.md")
 #### [快乐数](快乐数"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/快乐数.md")
 #### [两数之和](两数之和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/两数之和.md")
+#### [四数之和II](四数之和II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/四数之和II.md")
+#### [赎金信](赎金信"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/赎金信.md")
 
 
 ### 字符串
