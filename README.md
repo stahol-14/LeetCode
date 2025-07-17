@@ -29,6 +29,8 @@
 #### [两数之和](两数之和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/两数之和.md")
 #### [四数之和II](四数之和II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/四数之和II.md")
 #### [赎金信](赎金信"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/赎金信.md")
+#### [三数之和](三数之和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/三数之和.md")
+#### [四数之和](四数之和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/四数之和.md")
 
 
 ### 字符串
