@@ -44,3 +44,28 @@
 ### 双指针
 #### [移除元素](移除元素"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/数组/移除元素.md")
 #### [反转字符串](反转字符串"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/反转字符串.md")
+#### [替换数字](替换数字 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/替换数字.md")
+#### [反转字符串里的单词](反转字符串里的单词"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/字符串/反转字符串里的单词.md")
+#### [翻转链表](翻转链表"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/翻转链表.md")
+#### [删除链表的倒数第N个节点](删除链表的倒数第N个节点"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/删除链表的倒数第N个节点.md")
+#### [相交链表](相交链表"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/相交链表.md")
+#### [环形链表II](环形链表II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/链表/环形链表II.md")
+#### [三数之和](三数之和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/三数之和.md")
+#### [四数之和](四数之和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/四数之和.md")
+
+### 栈与队列
+
+
+### 二叉树
+
+
+### 回溯算法
+
+
+### 贪心算法
+
+
+### 动态规划
+
+
+### 单调栈
