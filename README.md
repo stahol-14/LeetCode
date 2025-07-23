@@ -62,7 +62,10 @@
 #### [后序遍历](后序遍历"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/后序遍历.md")
 #### [二叉树的层序遍历](二叉树的层序遍历"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉树的层序遍历.md")
 #### [二叉树的层序遍历II](二叉树的层序遍历II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉树的层序遍历II.md")
-
+#### [翻转二叉树](翻转二叉树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/翻转二叉树.md")
+#### [对称二叉树](对称二叉树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/对称二叉树.md")
+#### [二叉树的最大深度](二叉树的最大深度"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉树的最大深度.md")
+#### [二叉树的最小深度](二叉树的最小深度"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉树的最小深度.md")
 
 ### 回溯算法
 
