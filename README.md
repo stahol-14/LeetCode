@@ -66,6 +66,8 @@
 #### [对称二叉树](对称二叉树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/对称二叉树.md")
 #### [二叉树的最大深度](二叉树的最大深度"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉树的最大深度.md")
 #### [二叉树的最小深度](二叉树的最小深度"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉树的最小深度.md")
+#### [完全二叉树的节点个数](完全二叉树的节点个数"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/完全二叉树的节点个数.md")
+#### [平衡二叉树](平衡二叉树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/平衡二叉树.md")
 
 ### 回溯算法
 
