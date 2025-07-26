@@ -73,6 +73,9 @@
 #### [找树左下角的值](找树左下角的值"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/找树左下角的值.md")
 #### [路径总和](路径总和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/路径总和.md")
 #### [路径总和II](路径总和II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/路径总和II.md")
+#### [从中序与后序遍历序列构造二叉树](从中序与后序遍历序列构造二叉树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/从中序与后序遍历序列构造二叉树.md")
+#### [从前序与中序遍历序列构造二叉树](从前序与中序遍历序列构造二叉树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/从前序与中序遍历序列构造二叉树.md")
+#### [最大二叉树](最大二叉树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/最大二叉树.md")
 
 ### 回溯算法
 
