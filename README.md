@@ -86,6 +86,8 @@
 #### [二叉搜索树中的插入操作](二叉搜索树中的插入操作"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉搜索树中的插入操作.md")
 #### [删除二叉搜索树中的节点](删除二叉搜索树中的节点"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/删除二叉搜索树中的节点.md")
 #### [修剪二叉搜索树](修剪二叉搜索树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/修剪二叉搜索树.md")
+#### [将有序数组转换为二叉搜索树](将有序数组转换为二叉搜索树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/将有序数组转换为二叉搜索树.md")
+#### [把二叉搜索树转换为累加树](把二叉搜索树转换为累加树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/把二叉搜索树转换为累加树.md")
 
 
 ### 回溯算法
