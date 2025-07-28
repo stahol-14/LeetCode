@@ -83,6 +83,9 @@
 #### [二叉搜索树中的众数](二叉搜索树中的众数"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉搜索树中的众数.md")
 #### [二叉树的最近公共祖先](二叉树的最近公共祖先"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉树的最近公共祖先.md")
 #### [二叉搜索树的最近公共祖先](二叉搜索树的最近公共祖先"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉搜索树的最近公共祖先.md")
+#### [二叉搜索树中的插入操作](二叉搜索树中的插入操作"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/二叉搜索树中的插入操作.md")
+#### [删除二叉搜索树中的节点](删除二叉搜索树中的节点"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/删除二叉搜索树中的节点.md")
+#### [修剪二叉搜索树](修剪二叉搜索树"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/修剪二叉搜索树.md")
 
 
 ### 回溯算法
