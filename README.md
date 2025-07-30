@@ -96,7 +96,9 @@
 #### [电话号码的字母组合](电话号码的字母组合"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/电话号码的字母组合.md")
 #### [组合总和](组合总和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/组合总和.md")
 #### [组合总和II](组合总和II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/组合总和II.md")
-
+#### [分割回文串](分割回文串"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/分割回文串.md")
+#### [复原IP地址](复原IP地址"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/复原IP地址.md")
+#### []()
 
 
 ### 贪心算法
