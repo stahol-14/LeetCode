@@ -104,6 +104,8 @@
 #### [全排列](全排列"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/全排列.md")
 #### [全排列II](全排列II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/全排列II.md")
 #### [N皇后](N皇后"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/N皇后.md")
+#### [解数独](解数独"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/解数独.md")
+#### [重新安排行程](重新安排行程"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/重新安排行程.md")
 
 ### 贪心算法
 
