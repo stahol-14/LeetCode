@@ -54,6 +54,9 @@
 #### [四数之和](四数之和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/哈希表/四数之和.md")
 
 ### 栈与队列
+#### [用栈实现队列](用栈实现队列"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/用栈实现队列.md")
+#### [用队列实现栈](用队列实现栈"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/用队列实现栈.md")
+
 
 
 ### 二叉树
