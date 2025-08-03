@@ -56,8 +56,7 @@
 ### 栈与队列
 #### [用栈实现队列](用栈实现队列"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/用栈实现队列.md")
 #### [用队列实现栈](用队列实现栈"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/用队列实现栈.md")
-
-
+#### [有效的括号](有效的括号"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/有效的括号.md")
 
 ### 二叉树
 #### [前序遍历](前序遍历"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/二叉树/前序遍历.md")
