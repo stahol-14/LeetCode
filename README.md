@@ -111,7 +111,7 @@
 #### [重新安排行程](重新安排行程"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/回溯/重新安排行程.md")
 
 ### 贪心算法
-
+#### [分发饼干](分发饼干"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/分发饼干.md")
 
 ### 动态规划
 
