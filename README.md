@@ -114,9 +114,9 @@
 #### [摆动序列](摆动序列"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/摆动序列.md")
 #### [最大子数组和](最大子数组和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/最大子数组和.md")
 #### [买卖股票的最佳时机II](买卖股票的最佳时机II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/买卖股票的最佳时机II.md")
-#### [跳跃游戏](跳跃游戏"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/跳跃游戏.md")
-#### [跳跃游戏II](跳跃游戏II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/跳跃游戏II.md")
-#### [K次取反后最大化的数组和](K次取反后最大化的数组和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/栈与队列/K次取反后最大化的数组和.md")
+#### [跳跃游戏](跳跃游戏"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/跳跃游戏.md")
+#### [跳跃游戏II](跳跃游戏II"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/跳跃游戏II.md")
+#### [K次取反后最大化的数组和](K次取反后最大化的数组和"/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/K次取反后最大化的数组和.md")
 
 
 
