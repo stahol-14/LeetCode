@@ -124,6 +124,8 @@
 #### [用最少数量的箭引爆气球](用最少数量的箭引爆气球 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/用最少数量的箭引爆气球.md")
 #### [无重叠区间](无重叠区间 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/无重叠区间.md")
 #### [划分字母空间](划分字母空间 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/划分字母空间.md")
+#### [合并区间](合并区间 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/贪心算法/合并区间.md")
+
 
 ### 动态规划
 
