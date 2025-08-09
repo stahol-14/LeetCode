@@ -130,6 +130,10 @@
 
 
 ### 动态规划
+#### [斐波那契数](斐波那契数 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/斐波那契数.md")
+#### [爬楼梯](爬楼梯 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/爬楼梯.md")
+#### [使用最小花费爬楼梯](使用最小花费爬楼梯 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/使用最小花费爬楼梯.md")
+
 
 
 ### 单调栈
