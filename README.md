@@ -137,6 +137,8 @@
 #### [不同路径II](不同路径II "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/不同路径II.md")
 #### [整数拆分](整数拆分 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/整数拆分.md")
 #### [不同的二叉搜索树](不同的二叉搜索树 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/不同的二叉搜索树.md")
+#### [携带研究材料（0/1背包）](携带研究材料（0/1背包） "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/携带研究材料.md")
+#### [分割等和子集](分割等和子集 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/分割等和子集.md")
 
 
 ### 单调栈
