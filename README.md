@@ -143,6 +143,8 @@
 #### [目标和](目标和 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/目标和.md")
 #### [一和零](一和零 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/一和零.md")
 #### [携带研究材料](携带研究材料 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/携带材料.md")
+#### [零钱兑换II](零钱兑换II "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/零钱兑换II.md")
+#### [组合总和IV](组合总和IV "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/组合总和IV.md")
 
 
 
