@@ -150,6 +150,10 @@
 #### [完全平方数](完全平方数 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/完全平方数.md")
 #### [单词拆分](单词拆分 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/单词拆分.md")
 #### [携带矿石资源](携带矿石资源 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/携带矿石资源.md")
+#### [打家劫舍](打家劫舍 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/打家劫舍.md")
+#### [打家劫舍II](打家劫舍II "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/打家劫舍II.md")
+#### [打家劫舍III](打家劫舍III "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/打家劫舍III.md")
+
 
 
 ### 单调栈
