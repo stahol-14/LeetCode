@@ -148,7 +148,8 @@
 #### [爬楼梯plus](爬楼梯plus "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/爬楼梯plus.md")
 #### [零钱兑换](零钱兑换 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/零钱兑换.md")
 #### [完全平方数](完全平方数 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/完全平方数.md")
-
+#### [单词拆分](单词拆分 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/单词拆分.md")
+#### [携带矿石资源](携带矿石资源 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/携带矿石资源.md")
 
 
 ### 单调栈
