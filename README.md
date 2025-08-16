@@ -158,6 +158,8 @@
 #### [买卖股票的最佳时机III](买卖股票的最佳时机III "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/买卖股票的最佳时机III.md")
 #### [买卖股票的最佳时机IV](买卖股票的最佳时机IV "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/买卖股票的最佳时机IV.md")
 #### [最佳买卖股票时机含冷冻期](最佳买卖股票时机含冷冻期 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最佳买卖股票时机含冷冻期.md")
+#### [买卖股票的最佳时机含手续费](买卖股票的最佳时机含手续费 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/买卖股票的最佳时机含手续费.md")
+#### [最长递增子序列](最长递增子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长递增子序列.md")
 
 
 
