@@ -160,6 +160,9 @@
 #### [最佳买卖股票时机含冷冻期](最佳买卖股票时机含冷冻期 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最佳买卖股票时机含冷冻期.md")
 #### [买卖股票的最佳时机含手续费](买卖股票的最佳时机含手续费 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/买卖股票的最佳时机含手续费.md")
 #### [最长递增子序列](最长递增子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长递增子序列.md")
+#### [最长连续递增序列](最长连续递增序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长连续递增序列.md")
+#### [最长重复子数组](最长重复子数组 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长重复子数组.md")
+#### [最长公共子序列](最长公共子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长公共子序列.md")
 
 
 
