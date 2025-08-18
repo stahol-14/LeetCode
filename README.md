@@ -163,6 +163,10 @@
 #### [最长连续递增序列](最长连续递增序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长连续递增序列.md")
 #### [最长重复子数组](最长重复子数组 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长重复子数组.md")
 #### [最长公共子序列](最长公共子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最长公共子序列.md")
+#### [不相交的线](不相交的线 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/不相交的线.md")
+#### [最大子数组和](最大子数组和 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最大子数组和.md")
+#### [判断子序列](判断子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/判断子序列.md")
+
 
 
 
