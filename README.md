@@ -166,7 +166,7 @@
 #### [不相交的线](不相交的线 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/不相交的线.md")
 #### [最大子数组和](最大子数组和 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最大子数组和.md")
 #### [判断子序列](判断子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/判断子序列.md")
-
+#### [不同的子序列](不同的子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/不同的子序列.md")
 
 
 
