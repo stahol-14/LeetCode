@@ -167,6 +167,8 @@
 #### [最大子数组和](最大子数组和 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/最大子数组和.md")
 #### [判断子序列](判断子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/判断子序列.md")
 #### [不同的子序列](不同的子序列 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/不同的子序列.md")
+#### [两个字符串的删除操作](两个字符串的删除操作 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/两个字符串的删除操作.md")
+#### [编辑距离](编辑距离 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/动态规划/编辑距离.md")
 
 
 
