@@ -1,6 +1,6 @@
 # LeetCode刷题
 
-# Hot100
+## Hot100
 
 
 ## 代码随想录
@@ -181,3 +181,8 @@
 #### [柱状图中最大的矩形](柱状图中最大的矩形 "/Users/shaotianhao/Documents/GitHub/LeetCode/代码随想录/单调栈/柱状图中最大的矩形.md")
 
 ### 图论（hot100）
+
+
+## 输入输出格式
+#### [不同格式代码](不同格式代码 "/Users/shaotianhao/Documents/GitHub/LeetCode/输入输出格式/不同格式代码.md")
+#### [ACM模式](ACM模式 "/Users/shaotianhao/Documents/GitHub/LeetCode/输入输出格式/ACM模式.md")
