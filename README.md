@@ -188,5 +188,6 @@
 #### [ACM模式](ACM模式 "/Users/shaotianhao/Documents/GitHub/LeetCode/输入输出格式/ACM模式.md")
 
 
-## 面试真题
-#### [美团一面0904重排链表](美团一面0904重排链表 "/Users/shaotianhao/Documents/GitHub/LeetCode/面试真题/美团一面0904重排链表.md")
+## 笔试面试真题
+#### [美团一面0904重排链表](美团一面0904重排链表 "/Users/shaotianhao/Documents/GitHub/LeetCode/笔试面试真题/美团一面0904重排链表.md")
+#### [影石创新笔试](影石创新笔试 "/Users/shaotianhao/Documents/GitHub/LeetCode/笔试面试真题/影石创新笔试.md")
